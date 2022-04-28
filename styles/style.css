@@ -76,7 +76,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 45rem;
+  height: 500px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -95,4 +95,38 @@ body{
   padding: 2% 20%;
   text-align: center;
   line-height: 2;
+}
+
+/*--------------------------
+         Journey Ways Section proberties
+--------------------------*/
+
+.journey-ways{
+  text-align: center;
+  padding:  5% 10% 2.5%;
+  background-color: #fbfbfb;
+}
+
+.journey-ways h2{
+  color: #222f3e;
+  font-size: 1.6rem;
+  letter-spacing: 1.4;
+  text-transform: uppercase;
+}
+
+.journey-ways h2 span{
+  color: #1dd1d1;
+}
+#journey-explain{
+  color: #ccc;
+  padding-top: 1rem;
+}
+
+.journey-ride{
+  display: flex;
+  padding-top: 2rem;
+}
+
+.journey-vehicle{
+  
 }
